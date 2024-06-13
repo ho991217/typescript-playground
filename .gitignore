@@ -1,0 +1,42 @@
+# Node modules
+node_modules/
+
+# TypeScript compiled output
+dist/
+build/
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Logs
+logs/
+*.log
+yarn-debug.log*
+yarn-error.log*
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Optional Yarn cache directory
+.yarn
+
+# Yarn Integrity file
+.yarn-integrity
+
+# dotenv environment variable files
+.env
+.env.test
+.env.production
+
+# Editor and IDE specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# MacOS generated files
+.DS_Store
+
+# Coverage directory used by tools like istanbul
+coverage/
