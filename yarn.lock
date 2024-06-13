@@ -147,6 +147,11 @@ dynamic-dedupe@^0.3.0:
   dependencies:
     xtend "^4.0.0"
 
+es-toolkit@^1.2.0:
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/es-toolkit/-/es-toolkit-1.2.0.tgz#22530759fc518ea1b6fca0dbca6310f09c6fecf0"
+  integrity sha512-uT+OrtQOEbB5dROHLFRGVmdO6jK75I7cP5mi/pNS2ILpSAKeG0xmep9tQUjgOtOhWEsLahfIDmnpow35nFF3tw==
+
 fill-range@^7.1.1:
   version "7.1.1"
   resolved "https://registry.yarnpkg.com/fill-range/-/fill-range-7.1.1.tgz#44265d3cac07e3ea7dc247516380643754a05292"

@@ -6,7 +6,7 @@
   "author": "이호연",
   "license": "MIT",
   "scripts": {
-    "dev": "ts-node-dev --respawn src/index.ts",
+    "dev": "node --loader ts-node/esm src/index.ts",
     "build": "tsc",
     "start": "tsc && node dist/index.js"
   },
